@@ -1,0 +1,5 @@
+needs python 3.6
+and opencv 3.2.0.8
+and opencv contirb 3.2.0.8
+to run.
+
